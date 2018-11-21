@@ -1,0 +1,51 @@
+* {
+			margin: 0;
+			padding: 0;
+			border: 0;
+			outline: 0;
+			font-weight: inherit;
+			font-style: inherit;
+			font-family: inherit;
+			text-align: left;
+			vertical-align: baseline;
+			-webkit-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+		}
+		
+		#Game_top {
+			width: 600px;
+			height: 50px;
+			background: aliceblue;
+			margin: 0 auto;
+		}
+		
+		#Game_top button {
+			font-size: 20px;
+			width: 140px;
+			height: 50px;
+			margin: 3px;
+			cursor: pointer;
+			background-color: gray;
+			color: white;
+			text-align: center;
+		}
+		
+		#Game_panel {
+			width: 600px;
+			height: 600px;
+			background-color: beige;
+			margin: 0 auto;
+		}
+		
+		.grid {
+			width: 140px;
+			height: 140px;
+			margin: 5px;
+			background-color: bisque;
+			float: left;
+			font-size: 80px;
+			line-height: 140px;
+			text-align: center;
+		}
+
